@@ -1,0 +1,13 @@
+#loading {
+    display: none;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+#nav {
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+
